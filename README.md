@@ -2,8 +2,11 @@
 
 Mi primer repositorio en GitHub.
 
-Me gusta leer📚, dibujar📓, pintar🎨, programar👩‍💻 y enseñar👩‍🏫.
+¡¡¡Hola!!!
+Me llamo Florencia Pons, soy estudiante de Programación en la UTN.
 
-Me gusta ir a la 🏞, a la 🏖 , comer 🍕 y compartir con 👩🧑👩‍🦰👩‍🦱👨‍🦱👨
+![aprender-a-programar-despues-de-los-30](https://user-images.githubusercontent.com/111473222/215766945-fef49af5-676d-4031-9e60-ccd9d10bdc35.jpg)
 
-🎇✨ Me encanta el teatro!
+Siempre estoy en constante proceso de capacitación, me gusta dar lo mejor de mí en lo que hago, soy muy paciente, cordial, trabajo bien en equipo y poseo habilidades en la comunicación tanto escrita como oral.
+
+Actualmente me desempeño como docente desde hace ocho años, pero también me encuentro en búsqueda de mi primer trabajo en IT.
